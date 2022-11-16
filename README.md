@@ -1,4 +1,4 @@
-# crackITup
+# Quiz-time
 A Quiz Conducting Website 
 
 
