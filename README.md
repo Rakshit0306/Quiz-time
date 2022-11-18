@@ -8,4 +8,3 @@ A Quiz Conducting Website
 - React Js
 - Node Js
 
-![Screenshot](./img/Screenshot.png)
